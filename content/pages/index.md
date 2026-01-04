@@ -17,9 +17,8 @@ sections:
       I’m a video editor. I make cool and eye-catching edits. If you paid edits
       with high quality content, then you are at right place.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      If you want to contact me. Dm me at my official Instagram account
+      @modded_studio.
     styles:
       self:
         height: auto
